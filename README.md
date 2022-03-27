@@ -4,7 +4,7 @@ Aplicação desenvolvida em Java com SpringBoot, com Hibernate (JDBC) na camada 
 
 Para executar de maneira local:
 
-1. Instalar uma versão Java a partir da 8.
+1. Instalar uma versão Java a partir da 17.
 2. Clonar repositório.
 3. Importar projeto na IDE.
 4. Executar a aplicação a partir da classe MainApplication.
