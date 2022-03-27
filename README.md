@@ -1,4 +1,4 @@
-Aplicação que faz a consulta por ID do paciente e também a atualização de dados pessoais.
+Aplicação responsavel por fazer a consulta por ID do paciente e também a atualização de dados pessoais.
 
 Aplicação desenvolvida em Java com SpringBoot, com Hibernate (JDBC) na camada de persistência.
 
